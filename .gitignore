@@ -1,0 +1,5 @@
+*.csv
+*.vs
+bin/
+obj/
+out/
